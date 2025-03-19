@@ -52,5 +52,6 @@ In the business context, companies often develop custom Chrome extensions to mee
 Chrome extensions are powerful tools that enhance the functionality of the Google Chrome browser, providing users with a customizable and efficient browsing experience. With the right tools and technologies, developers can create extensions that cater to a wide array of needs, making them an integral part of the modern web ecosystem.
 
 ## OUTPUT
-![Screenshot (74)](https://github.com/user-attachments/assets/7d3484c9-6758-4194-bee3-127ebdd3a3fc)
 
+![Screenshot (79)](https://github.com/user-attachments/assets/c561b3a5-b3b3-45f0-942e-2fa7cf0aee35)
+![Screenshot (80)](https://github.com/user-attachments/assets/4ccb4923-4b14-4292-ba9d-965c13e19fa4)
