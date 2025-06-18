@@ -1,15 +1,5 @@
 # CHROME EXTENSION FOR PERSONAL PRODUCTIVITY TRACKER
-**COMPANY**: CODTECH IT SOLUTIONS
 
-**NAME**: V MEGHASHREE
-
-**INTERN ID**: CT08TZC
-
-**DOMAIN**: REACT.JS WEB DEVELOPMENT
-
-**DURATION**: 4 WEEKS
-
-**MENTOR**: NEELA SANTHOSH
 
 ## DESCRIPTION
 A Chrome extension is a small software program that customizes the browsing experience in the Google Chrome web browser. These extensions can enhance the functionality of the browser by adding features, modifying the user interface, or integrating with web services. They are built using web technologies such as HTML, CSS, and JavaScript, allowing developers to create rich and interactive applications that run directly within the browser.
